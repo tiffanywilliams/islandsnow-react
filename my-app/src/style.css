@@ -1,0 +1,18 @@
+.ui.borderless.top.menu {
+  background: #f4f4f4;
+  box-shadow: none;
+  border: none;
+}
+
+.ui.centered.grid.container {
+  margin-top: 10px;
+}
+
+.ui.fluid.image {
+  margin-top: 50px;
+}
+
+.footer-background {
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
